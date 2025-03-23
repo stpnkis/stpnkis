@@ -1,6 +1,6 @@
 # Hi there, I'm Štěpán
 
-I'm a student of Applied Informatics and Control at the Faculty of Mechanical Engineering.  
+I'm a student of Applied Informatics and Controls at the Faculty of Mechanical Engineering.  
 I love building things that combine **hardware** and **software**
 
 ---
